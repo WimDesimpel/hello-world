@@ -1,0 +1,1 @@
+powershell.exe "Z:\Development\NAV2013R2\Powershell\tcognav2013r2.ps1"
